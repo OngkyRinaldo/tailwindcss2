@@ -5,6 +5,7 @@ module.exports = {
         fontFamily: {
             Lora: 'Lora',
             Montserrat: 'Montserrat',
+            CrimsonPro: 'Crimson Pro',
         },
         extend: {},
     },
